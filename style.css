@@ -1,0 +1,22 @@
+
+.navbar-brand{
+  font-weight : bold;
+  color: #0d6efd !important;
+  font-family:sans-serif;
+}
+.form-control{
+  border-radius: 50px !important;
+}
+.carousel-inner{
+  height: 500px;
+}
+h1{
+  padding-top: 50px;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-style: double;
+  text-decoration-color: #0d6efd;
+}
+.row{
+  padding-top: 100px;
+}
